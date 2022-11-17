@@ -2,17 +2,16 @@
 Repository for managing links, tips, documents I've found useful at some point in my career
 
 # Helpful Shortcuts
-
-* [BASH](shortcuts/bash.txt)
-* [eMacs](shortcuts/emacs.txt)
-* [GDB](shortcuts/gdb.txt)
-* [htop](shortcuts/htop.txt)
-* [mySQL](shortcuts/mysql.txt)
-* [od](shortcuts/od.txt)
-* [rbt](shortcuts/rbt.txt)
-* [RPM](shortcuts/rpm.txt)
-* [tmux](shortcuts/tmux.txt)
-* [yum](shortcuts/yum.txt)
+* [BASH](shortcuts/bash.md)
+* [eMacs](shortcuts/emacs.md)
+* [GDB](shortcuts/gdb.md)
+* [htop](shortcuts/htop.md)
+* [mySQL](shortcuts/mysql.md)
+* [od](shortcuts/od.md)
+* [rbt](shortcuts/rbt.md)
+* [RPM](shortcuts/rpm.md)
+* [tmux](shortcuts/tmux.md)
+* [yum](shortcuts/yum.md)
 
 # Links
 
