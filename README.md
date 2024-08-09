@@ -15,6 +15,11 @@ Repository for managing links, tips, documents I've found useful at some point i
 
 # Links
 
+## Philosophies
+
+* [What I Believe](https://github.com/pele1410/pele1410.github.io/blob/main/README.md#what-i-believe)
+* [C++ Best Practices](https://github.com/cpp-best-practices)
+
 ## Blogs
 
 * [Fluent CPP](https://www.fluentcpp.com/)
